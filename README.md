@@ -2,7 +2,7 @@
 
 Wiki de repositórios do GitHub com React. Este projeto foi um dos desafios lançados no Bootcamp Orange Tech+ Inter em parceria com a Digital Innovation One.
 
-![Imagem da página](public/wiki-github.png)
+![Imagem da página](public/wiki-github-view.png)
 
 ## Como rodar o projeto:
 
