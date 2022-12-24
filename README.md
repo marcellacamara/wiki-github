@@ -1,4 +1,4 @@
-# Desafio: Wiki do GitHub
+# Desafio: Wiki do GitHub com React
 
 Wiki de repositórios do GitHub com React. Este projeto foi um dos desafios lançados no Bootcamp Orange Tech+ Inter em parceria com a Digital Innovation One.
 
